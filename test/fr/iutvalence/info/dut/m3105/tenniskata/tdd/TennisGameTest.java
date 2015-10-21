@@ -7,9 +7,17 @@ import org.junit.Test;
 public class TennisGameTest
 {
 	@Test
-	public void aSimpleBeginningTest()
+	public void gameIsStarting()
 	{
-		Assert.fail("...");
-	}
+		TennisGame gameOfTennis = new TennisGame();
+		
+		Assert.assertEquals(gameOfTennis.getScore(), "Love - all");
 
+	}
+	
+	
+	
+	
+
+	
 }
