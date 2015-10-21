@@ -12,6 +12,9 @@ public class TennisGame
 	{
 		return this.score;
 	}
-	
-	
+
+	public void serverScored() 
+	{
+		// TODO Auto-generated method stub	
+	}
 }
