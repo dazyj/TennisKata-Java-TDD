@@ -33,7 +33,7 @@ public class TennisGameTest
 	{
 		TennisGame gameOfTennis = new TennisGame();
 		gameOfTennis.serverScoredAndReceiverScored();
-		Assert.assertEquals(gameOfTennis.getScore(), "Fifteen - fifteen");
+		Assert.assertEquals(gameOfTennis.getScore(), "Fifteen - all");
 	}
 	
 }
