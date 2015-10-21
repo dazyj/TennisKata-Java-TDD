@@ -15,6 +15,6 @@ public class TennisGame
 
 	public void serverScored() 
 	{
-		// TODO Auto-generated method stub	
+		this.score = "Fifteen - love";
 	}
 }

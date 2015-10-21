@@ -17,7 +17,7 @@ public class TennisGameTest
 	{
 		TennisGame gameOfTennis = new TennisGame();
 		gameOfTennis.serverScored();
-		Assert.assertEquals(gameOfTennis.getScore(), "Fifteen - all");
+		Assert.assertEquals(gameOfTennis.getScore(), "Fifteen - love");
 	}
 	
 	
