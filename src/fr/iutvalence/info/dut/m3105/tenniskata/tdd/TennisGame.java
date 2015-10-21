@@ -17,4 +17,9 @@ public class TennisGame
 	{
 		this.score = "Fifteen - love";
 	}
+
+	public void receiverScored() 
+	{
+		// TODO Auto-generated method stub	
+	}
 }
